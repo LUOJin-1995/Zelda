@@ -1,9 +1,1245 @@
-<mxfile host="app.diagrams.net" modified="2023-05-19T15:54:22.230Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.42" version="21.3.2" etag="4VnUuj49k3T6T_Bm4owD" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-19T16:34:16.011Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.42" etag="I80FrNVRYZF2QVL3P5xJ" version="21.3.2" type="github">
   <diagram name="第 1 页" id="WtvmBX8ioOenLgMjpYvS">
-    <mxGraphModel>
+    <mxGraphModel dx="2852" dy="1492" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-125" value="调查对比法" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="20" y="1320" width="841" height="188" as="geometry" />
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-126" value="对比分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="PHrZ8asFYvVWfczI3-8b-125">
+          <mxGeometry x="164" y="85" width="81" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-127" value="现场调查" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="PHrZ8asFYvVWfczI3-8b-125">
+          <mxGeometry x="33" y="85" width="81" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-128" value="调度指挥安全治理体系现状调研" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="PHrZ8asFYvVWfczI3-8b-125">
+          <mxGeometry x="375" y="43" width="240" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-129" value="国内外调度安全指挥体系历史发展及研究现状对比分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="PHrZ8asFYvVWfczI3-8b-125">
+          <mxGeometry x="295" y="127" width="400" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-130" value="问题发现" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="PHrZ8asFYvVWfczI3-8b-125">
+          <mxGeometry x="745" y="43" width="79" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-131" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="PHrZ8asFYvVWfczI3-8b-125" source="PHrZ8asFYvVWfczI3-8b-127" target="PHrZ8asFYvVWfczI3-8b-126">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-132" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.8273074661963551;exitY=0;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="PHrZ8asFYvVWfczI3-8b-125" source="PHrZ8asFYvVWfczI3-8b-126" target="PHrZ8asFYvVWfczI3-8b-128">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="270" y="60" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-133" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.8273074661963551;exitY=1;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="PHrZ8asFYvVWfczI3-8b-125" source="PHrZ8asFYvVWfczI3-8b-126" target="PHrZ8asFYvVWfczI3-8b-129">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="270" y="144" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-134" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="PHrZ8asFYvVWfczI3-8b-125" source="PHrZ8asFYvVWfczI3-8b-128" target="PHrZ8asFYvVWfczI3-8b-130">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-135" value="调查对比法" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="20" y="1320" width="841" height="188" as="geometry" />
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-136" value="对比分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="PHrZ8asFYvVWfczI3-8b-135">
+          <mxGeometry x="164" y="85" width="81" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-137" value="现场调查" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="PHrZ8asFYvVWfczI3-8b-135">
+          <mxGeometry x="33" y="85" width="81" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-138" value="调度指挥安全治理体系现状调研" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="PHrZ8asFYvVWfczI3-8b-135">
+          <mxGeometry x="375" y="43" width="240" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-139" value="国内外调度安全指挥体系历史发展及研究现状对比分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="PHrZ8asFYvVWfczI3-8b-135">
+          <mxGeometry x="295" y="127" width="400" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-140" value="问题发现" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="PHrZ8asFYvVWfczI3-8b-135">
+          <mxGeometry x="745" y="43" width="79" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-141" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="PHrZ8asFYvVWfczI3-8b-135" source="PHrZ8asFYvVWfczI3-8b-137" target="PHrZ8asFYvVWfczI3-8b-136">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-142" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.8273074661963551;exitY=0;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="PHrZ8asFYvVWfczI3-8b-135" source="PHrZ8asFYvVWfczI3-8b-136" target="PHrZ8asFYvVWfczI3-8b-138">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="270" y="60" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-143" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.8273074661963551;exitY=1;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="PHrZ8asFYvVWfczI3-8b-135" source="PHrZ8asFYvVWfczI3-8b-136" target="PHrZ8asFYvVWfczI3-8b-139">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="270" y="144" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-144" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="PHrZ8asFYvVWfczI3-8b-135" source="PHrZ8asFYvVWfczI3-8b-138" target="PHrZ8asFYvVWfczI3-8b-140">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-145" value="调查对比" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="1390" y="50" width="841" height="188" as="geometry" />
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-146" value="对比分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="PHrZ8asFYvVWfczI3-8b-145">
+          <mxGeometry x="164" y="85" width="81" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-147" value="现场调查" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="PHrZ8asFYvVWfczI3-8b-145">
+          <mxGeometry x="33" y="85" width="81" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-148" value="调度指挥安全治理体系现状调研" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="PHrZ8asFYvVWfczI3-8b-145">
+          <mxGeometry x="375" y="43" width="240" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-149" value="国内外调度安全指挥体系历史发展及研究现状对比分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="PHrZ8asFYvVWfczI3-8b-145">
+          <mxGeometry x="295" y="127" width="400" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-150" value="问题发现" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="PHrZ8asFYvVWfczI3-8b-145">
+          <mxGeometry x="745" y="43" width="79" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-151" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="PHrZ8asFYvVWfczI3-8b-145" source="PHrZ8asFYvVWfczI3-8b-147" target="PHrZ8asFYvVWfczI3-8b-146">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-152" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.8273074661963551;exitY=0;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="PHrZ8asFYvVWfczI3-8b-145" source="PHrZ8asFYvVWfczI3-8b-146" target="PHrZ8asFYvVWfczI3-8b-148">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="270" y="60" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-153" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.8273074661963551;exitY=1;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="PHrZ8asFYvVWfczI3-8b-145" source="PHrZ8asFYvVWfczI3-8b-146" target="PHrZ8asFYvVWfczI3-8b-149">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="270" y="144" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-154" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="PHrZ8asFYvVWfczI3-8b-145" source="PHrZ8asFYvVWfczI3-8b-148" target="PHrZ8asFYvVWfczI3-8b-150">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-155" value="实证研究法" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="1390" y="250" width="262" height="504" as="geometry" />
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-156" value="数据采集" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="PHrZ8asFYvVWfczI3-8b-155">
+          <mxGeometry x="99" y="117" width="81" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-157" value="实地考察" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="PHrZ8asFYvVWfczI3-8b-155">
+          <mxGeometry x="99" y="33" width="80" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-158" value="问卷调查" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="PHrZ8asFYvVWfczI3-8b-155">
+          <mxGeometry x="99" y="201" width="80" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-159" value="数据分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="PHrZ8asFYvVWfczI3-8b-155">
+          <mxGeometry x="99" y="285" width="81" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-160" value="安全关键环节梳理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="PHrZ8asFYvVWfczI3-8b-155">
+          <mxGeometry x="67" y="369" width="144" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-161" value="关键环节安全关键点分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="PHrZ8asFYvVWfczI3-8b-155">
+          <mxGeometry x="43" y="453" width="192" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-162" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.49382716049382713;entryY=0;rounded=0;" edge="1" parent="PHrZ8asFYvVWfczI3-8b-155" source="PHrZ8asFYvVWfczI3-8b-157" target="PHrZ8asFYvVWfczI3-8b-156">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-163" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.49382716049382713;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="PHrZ8asFYvVWfczI3-8b-155" source="PHrZ8asFYvVWfczI3-8b-156" target="PHrZ8asFYvVWfczI3-8b-158">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-164" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.49382716049382713;entryY=0;rounded=0;" edge="1" parent="PHrZ8asFYvVWfczI3-8b-155" source="PHrZ8asFYvVWfczI3-8b-158" target="PHrZ8asFYvVWfczI3-8b-159">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-165" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.49382716049382713;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="PHrZ8asFYvVWfczI3-8b-155" source="PHrZ8asFYvVWfczI3-8b-159" target="PHrZ8asFYvVWfczI3-8b-160">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-166" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="PHrZ8asFYvVWfczI3-8b-155" source="PHrZ8asFYvVWfczI3-8b-160" target="PHrZ8asFYvVWfczI3-8b-161">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-167" value="理论分析法" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="1530" width="342" height="1008" as="geometry" />
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-168" value="内涵分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="PHrZ8asFYvVWfczI3-8b-167">
+          <mxGeometry x="139" y="117" width="80" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-169" value="理论构建" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="PHrZ8asFYvVWfczI3-8b-167">
+          <mxGeometry x="139" y="33" width="81" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-170" value="特征分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="PHrZ8asFYvVWfczI3-8b-167">
+          <mxGeometry x="139" y="201" width="81" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-171" value="综合总结" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="PHrZ8asFYvVWfczI3-8b-167">
+          <mxGeometry x="139" y="285" width="80" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-172" value="调度本质安全的研究范围明确" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="PHrZ8asFYvVWfczI3-8b-167">
+          <mxGeometry x="67" y="369" width="224" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-173" value="理论框架选择" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="PHrZ8asFYvVWfczI3-8b-167">
+          <mxGeometry x="123" y="453" width="113" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-174" value="文献规章制度和实践经验综合研究" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="PHrZ8asFYvVWfczI3-8b-167">
+          <mxGeometry x="51" y="537" width="256" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-175" value="调度本质安全的内涵分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="PHrZ8asFYvVWfczI3-8b-167">
+          <mxGeometry x="83" y="621" width="193" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-176" value="调度系统分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="PHrZ8asFYvVWfczI3-8b-167">
+          <mxGeometry x="123" y="705" width="113" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-177" value="调度本质安全的特征深入理解" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="PHrZ8asFYvVWfczI3-8b-167">
+          <mxGeometry x="67" y="789" width="225" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-178" value="调度指挥安全目标界定和分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="PHrZ8asFYvVWfczI3-8b-167">
+          <mxGeometry x="67" y="873" width="225" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-179" value="调度本质安全的目标体系和层次明确" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="PHrZ8asFYvVWfczI3-8b-167">
+          <mxGeometry x="43" y="957" width="272" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-180" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.49382716049382713;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="PHrZ8asFYvVWfczI3-8b-167" source="PHrZ8asFYvVWfczI3-8b-169" target="PHrZ8asFYvVWfczI3-8b-168">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-181" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.49382716049382713;entryY=0;rounded=0;" edge="1" parent="PHrZ8asFYvVWfczI3-8b-167" source="PHrZ8asFYvVWfczI3-8b-168" target="PHrZ8asFYvVWfczI3-8b-170">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-182" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.49382716049382713;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="PHrZ8asFYvVWfczI3-8b-167" source="PHrZ8asFYvVWfczI3-8b-170" target="PHrZ8asFYvVWfczI3-8b-171">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-183" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="PHrZ8asFYvVWfczI3-8b-167" source="PHrZ8asFYvVWfczI3-8b-171" target="PHrZ8asFYvVWfczI3-8b-172">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-184" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.49557522123893805;entryY=0;rounded=0;" edge="1" parent="PHrZ8asFYvVWfczI3-8b-167" source="PHrZ8asFYvVWfczI3-8b-172" target="PHrZ8asFYvVWfczI3-8b-173">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-185" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.49557522123893805;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="PHrZ8asFYvVWfczI3-8b-167" source="PHrZ8asFYvVWfczI3-8b-173" target="PHrZ8asFYvVWfczI3-8b-174">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-186" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.49740932642487046;entryY=0;rounded=0;" edge="1" parent="PHrZ8asFYvVWfczI3-8b-167" source="PHrZ8asFYvVWfczI3-8b-174" target="PHrZ8asFYvVWfczI3-8b-175">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-187" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.49740932642487046;exitY=1;entryX=0.49557522123893805;entryY=0;rounded=0;" edge="1" parent="PHrZ8asFYvVWfczI3-8b-167" source="PHrZ8asFYvVWfczI3-8b-175" target="PHrZ8asFYvVWfczI3-8b-176">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-188" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.49557522123893805;exitY=1;entryX=0.49777777777777776;entryY=0;rounded=0;" edge="1" parent="PHrZ8asFYvVWfczI3-8b-167" source="PHrZ8asFYvVWfczI3-8b-176" target="PHrZ8asFYvVWfczI3-8b-177">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-189" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.49777777777777776;exitY=1;entryX=0.49777777777777776;entryY=0;rounded=0;" edge="1" parent="PHrZ8asFYvVWfczI3-8b-167" source="PHrZ8asFYvVWfczI3-8b-177" target="PHrZ8asFYvVWfczI3-8b-178">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-190" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.49777777777777776;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="PHrZ8asFYvVWfczI3-8b-167" source="PHrZ8asFYvVWfczI3-8b-178" target="PHrZ8asFYvVWfczI3-8b-179">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-191" value="理论分析法" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="1530" width="342" height="1008" as="geometry" />
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-192" value="内涵分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="PHrZ8asFYvVWfczI3-8b-191">
+          <mxGeometry x="139" y="117" width="80" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-193" value="理论构建" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="PHrZ8asFYvVWfczI3-8b-191">
+          <mxGeometry x="139" y="33" width="81" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-194" value="特征分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="PHrZ8asFYvVWfczI3-8b-191">
+          <mxGeometry x="139" y="201" width="81" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-195" value="综合总结" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="PHrZ8asFYvVWfczI3-8b-191">
+          <mxGeometry x="139" y="285" width="80" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-196" value="调度本质安全的研究范围明确" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="PHrZ8asFYvVWfczI3-8b-191">
+          <mxGeometry x="67" y="369" width="224" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-197" value="理论框架选择" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="PHrZ8asFYvVWfczI3-8b-191">
+          <mxGeometry x="123" y="453" width="113" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-198" value="文献规章制度和实践经验综合研究" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="PHrZ8asFYvVWfczI3-8b-191">
+          <mxGeometry x="51" y="537" width="256" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-199" value="调度本质安全的内涵分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="PHrZ8asFYvVWfczI3-8b-191">
+          <mxGeometry x="83" y="621" width="193" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-200" value="调度系统分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="PHrZ8asFYvVWfczI3-8b-191">
+          <mxGeometry x="123" y="705" width="113" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-201" value="调度本质安全的特征深入理解" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="PHrZ8asFYvVWfczI3-8b-191">
+          <mxGeometry x="67" y="789" width="225" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-202" value="调度指挥安全目标界定和分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="PHrZ8asFYvVWfczI3-8b-191">
+          <mxGeometry x="67" y="873" width="225" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-203" value="调度本质安全的目标体系和层次明确" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="PHrZ8asFYvVWfczI3-8b-191">
+          <mxGeometry x="43" y="957" width="272" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-204" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.49382716049382713;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="PHrZ8asFYvVWfczI3-8b-191" source="PHrZ8asFYvVWfczI3-8b-193" target="PHrZ8asFYvVWfczI3-8b-192">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-205" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.49382716049382713;entryY=0;rounded=0;" edge="1" parent="PHrZ8asFYvVWfczI3-8b-191" source="PHrZ8asFYvVWfczI3-8b-192" target="PHrZ8asFYvVWfczI3-8b-194">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-206" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.49382716049382713;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="PHrZ8asFYvVWfczI3-8b-191" source="PHrZ8asFYvVWfczI3-8b-194" target="PHrZ8asFYvVWfczI3-8b-195">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-207" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="PHrZ8asFYvVWfczI3-8b-191" source="PHrZ8asFYvVWfczI3-8b-195" target="PHrZ8asFYvVWfczI3-8b-196">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-208" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.49557522123893805;entryY=0;rounded=0;" edge="1" parent="PHrZ8asFYvVWfczI3-8b-191" source="PHrZ8asFYvVWfczI3-8b-196" target="PHrZ8asFYvVWfczI3-8b-197">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-209" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.49557522123893805;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="PHrZ8asFYvVWfczI3-8b-191" source="PHrZ8asFYvVWfczI3-8b-197" target="PHrZ8asFYvVWfczI3-8b-198">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-210" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.49740932642487046;entryY=0;rounded=0;" edge="1" parent="PHrZ8asFYvVWfczI3-8b-191" source="PHrZ8asFYvVWfczI3-8b-198" target="PHrZ8asFYvVWfczI3-8b-199">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-211" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.49740932642487046;exitY=1;entryX=0.49557522123893805;entryY=0;rounded=0;" edge="1" parent="PHrZ8asFYvVWfczI3-8b-191" source="PHrZ8asFYvVWfczI3-8b-199" target="PHrZ8asFYvVWfczI3-8b-200">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-212" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.49557522123893805;exitY=1;entryX=0.49777777777777776;entryY=0;rounded=0;" edge="1" parent="PHrZ8asFYvVWfczI3-8b-191" source="PHrZ8asFYvVWfczI3-8b-200" target="PHrZ8asFYvVWfczI3-8b-201">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-213" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.49777777777777776;exitY=1;entryX=0.49777777777777776;entryY=0;rounded=0;" edge="1" parent="PHrZ8asFYvVWfczI3-8b-191" source="PHrZ8asFYvVWfczI3-8b-201" target="PHrZ8asFYvVWfczI3-8b-202">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-214" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.49777777777777776;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="PHrZ8asFYvVWfczI3-8b-191" source="PHrZ8asFYvVWfczI3-8b-202" target="PHrZ8asFYvVWfczI3-8b-203">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-215" value="理论分析法" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="1530" width="342" height="1008" as="geometry" />
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-216" value="内涵分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="PHrZ8asFYvVWfczI3-8b-215">
+          <mxGeometry x="139" y="117" width="80" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-217" value="理论构建" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="PHrZ8asFYvVWfczI3-8b-215">
+          <mxGeometry x="139" y="33" width="81" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-218" value="特征分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="PHrZ8asFYvVWfczI3-8b-215">
+          <mxGeometry x="139" y="201" width="81" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-219" value="综合总结" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="PHrZ8asFYvVWfczI3-8b-215">
+          <mxGeometry x="139" y="285" width="80" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-220" value="调度本质安全的研究范围明确" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="PHrZ8asFYvVWfczI3-8b-215">
+          <mxGeometry x="67" y="369" width="224" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-221" value="理论框架选择" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="PHrZ8asFYvVWfczI3-8b-215">
+          <mxGeometry x="123" y="453" width="113" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-222" value="文献规章制度和实践经验综合研究" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="PHrZ8asFYvVWfczI3-8b-215">
+          <mxGeometry x="51" y="537" width="256" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-223" value="调度本质安全的内涵分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="PHrZ8asFYvVWfczI3-8b-215">
+          <mxGeometry x="83" y="621" width="193" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-224" value="调度系统分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="PHrZ8asFYvVWfczI3-8b-215">
+          <mxGeometry x="123" y="705" width="113" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-225" value="调度本质安全的特征深入理解" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="PHrZ8asFYvVWfczI3-8b-215">
+          <mxGeometry x="67" y="789" width="225" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-226" value="调度指挥安全目标界定和分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="PHrZ8asFYvVWfczI3-8b-215">
+          <mxGeometry x="67" y="873" width="225" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-227" value="调度本质安全的目标体系和层次明确" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="PHrZ8asFYvVWfczI3-8b-215">
+          <mxGeometry x="43" y="957" width="272" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-228" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.49382716049382713;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="PHrZ8asFYvVWfczI3-8b-215" source="PHrZ8asFYvVWfczI3-8b-217" target="PHrZ8asFYvVWfczI3-8b-216">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-229" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.49382716049382713;entryY=0;rounded=0;" edge="1" parent="PHrZ8asFYvVWfczI3-8b-215" source="PHrZ8asFYvVWfczI3-8b-216" target="PHrZ8asFYvVWfczI3-8b-218">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-230" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.49382716049382713;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="PHrZ8asFYvVWfczI3-8b-215" source="PHrZ8asFYvVWfczI3-8b-218" target="PHrZ8asFYvVWfczI3-8b-219">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-231" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="PHrZ8asFYvVWfczI3-8b-215" source="PHrZ8asFYvVWfczI3-8b-219" target="PHrZ8asFYvVWfczI3-8b-220">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-232" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.49557522123893805;entryY=0;rounded=0;" edge="1" parent="PHrZ8asFYvVWfczI3-8b-215" source="PHrZ8asFYvVWfczI3-8b-220" target="PHrZ8asFYvVWfczI3-8b-221">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-233" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.49557522123893805;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="PHrZ8asFYvVWfczI3-8b-215" source="PHrZ8asFYvVWfczI3-8b-221" target="PHrZ8asFYvVWfczI3-8b-222">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-234" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.49740932642487046;entryY=0;rounded=0;" edge="1" parent="PHrZ8asFYvVWfczI3-8b-215" source="PHrZ8asFYvVWfczI3-8b-222" target="PHrZ8asFYvVWfczI3-8b-223">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-235" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.49740932642487046;exitY=1;entryX=0.49557522123893805;entryY=0;rounded=0;" edge="1" parent="PHrZ8asFYvVWfczI3-8b-215" source="PHrZ8asFYvVWfczI3-8b-223" target="PHrZ8asFYvVWfczI3-8b-224">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-236" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.49557522123893805;exitY=1;entryX=0.49777777777777776;entryY=0;rounded=0;" edge="1" parent="PHrZ8asFYvVWfczI3-8b-215" source="PHrZ8asFYvVWfczI3-8b-224" target="PHrZ8asFYvVWfczI3-8b-225">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-237" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.49777777777777776;exitY=1;entryX=0.49777777777777776;entryY=0;rounded=0;" edge="1" parent="PHrZ8asFYvVWfczI3-8b-215" source="PHrZ8asFYvVWfczI3-8b-225" target="PHrZ8asFYvVWfczI3-8b-226">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-238" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.49777777777777776;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="PHrZ8asFYvVWfczI3-8b-215" source="PHrZ8asFYvVWfczI3-8b-226" target="PHrZ8asFYvVWfczI3-8b-227">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-239" value="理论分析法" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="1889" y="250" width="342" height="1008" as="geometry" />
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-240" value="内涵分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="PHrZ8asFYvVWfczI3-8b-239">
+          <mxGeometry x="139" y="117" width="80" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-241" value="理论构建" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="PHrZ8asFYvVWfczI3-8b-239">
+          <mxGeometry x="139" y="33" width="81" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-242" value="特征分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="PHrZ8asFYvVWfczI3-8b-239">
+          <mxGeometry x="139" y="201" width="81" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-243" value="综合总结" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="PHrZ8asFYvVWfczI3-8b-239">
+          <mxGeometry x="139" y="285" width="80" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-244" value="调度本质安全的研究范围明确" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="PHrZ8asFYvVWfczI3-8b-239">
+          <mxGeometry x="67" y="369" width="224" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-245" value="理论框架选择" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="PHrZ8asFYvVWfczI3-8b-239">
+          <mxGeometry x="123" y="453" width="113" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-246" value="文献规章制度和实践经验综合研究" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="PHrZ8asFYvVWfczI3-8b-239">
+          <mxGeometry x="51" y="537" width="256" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-247" value="调度本质安全的内涵分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="PHrZ8asFYvVWfczI3-8b-239">
+          <mxGeometry x="83" y="621" width="193" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-248" value="调度系统分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="PHrZ8asFYvVWfczI3-8b-239">
+          <mxGeometry x="123" y="705" width="113" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-249" value="调度本质安全的特征深入理解" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="PHrZ8asFYvVWfczI3-8b-239">
+          <mxGeometry x="67" y="789" width="225" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-250" value="调度指挥安全目标界定和分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="PHrZ8asFYvVWfczI3-8b-239">
+          <mxGeometry x="67" y="873" width="225" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-251" value="调度本质安全的目标体系和层次明确" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="PHrZ8asFYvVWfczI3-8b-239">
+          <mxGeometry x="43" y="957" width="272" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-252" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.49382716049382713;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="PHrZ8asFYvVWfczI3-8b-239" source="PHrZ8asFYvVWfczI3-8b-241" target="PHrZ8asFYvVWfczI3-8b-240">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-253" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.49382716049382713;entryY=0;rounded=0;" edge="1" parent="PHrZ8asFYvVWfczI3-8b-239" source="PHrZ8asFYvVWfczI3-8b-240" target="PHrZ8asFYvVWfczI3-8b-242">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-254" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.49382716049382713;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="PHrZ8asFYvVWfczI3-8b-239" source="PHrZ8asFYvVWfczI3-8b-242" target="PHrZ8asFYvVWfczI3-8b-243">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-255" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="PHrZ8asFYvVWfczI3-8b-239" source="PHrZ8asFYvVWfczI3-8b-243" target="PHrZ8asFYvVWfczI3-8b-244">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-256" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.49557522123893805;entryY=0;rounded=0;" edge="1" parent="PHrZ8asFYvVWfczI3-8b-239" source="PHrZ8asFYvVWfczI3-8b-244" target="PHrZ8asFYvVWfczI3-8b-245">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-257" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.49557522123893805;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="PHrZ8asFYvVWfczI3-8b-239" source="PHrZ8asFYvVWfczI3-8b-245" target="PHrZ8asFYvVWfczI3-8b-246">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-258" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.49740932642487046;entryY=0;rounded=0;" edge="1" parent="PHrZ8asFYvVWfczI3-8b-239" source="PHrZ8asFYvVWfczI3-8b-246" target="PHrZ8asFYvVWfczI3-8b-247">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-259" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.49740932642487046;exitY=1;entryX=0.49557522123893805;entryY=0;rounded=0;" edge="1" parent="PHrZ8asFYvVWfczI3-8b-239" source="PHrZ8asFYvVWfczI3-8b-247" target="PHrZ8asFYvVWfczI3-8b-248">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-260" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.49557522123893805;exitY=1;entryX=0.49777777777777776;entryY=0;rounded=0;" edge="1" parent="PHrZ8asFYvVWfczI3-8b-239" source="PHrZ8asFYvVWfczI3-8b-248" target="PHrZ8asFYvVWfczI3-8b-249">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-261" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.49777777777777776;exitY=1;entryX=0.49777777777777776;entryY=0;rounded=0;" edge="1" parent="PHrZ8asFYvVWfczI3-8b-239" source="PHrZ8asFYvVWfczI3-8b-249" target="PHrZ8asFYvVWfczI3-8b-250">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-262" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.49777777777777776;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="PHrZ8asFYvVWfczI3-8b-239" source="PHrZ8asFYvVWfczI3-8b-250" target="PHrZ8asFYvVWfczI3-8b-251">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-264" value="理论分析法" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="2602" width="2543" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-265" value="内涵分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="PHrZ8asFYvVWfczI3-8b-264">
+          <mxGeometry x="164" y="43" width="80" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-266" value="理论构建" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="PHrZ8asFYvVWfczI3-8b-264">
+          <mxGeometry x="33" y="43" width="81" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-267" value="特征分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="PHrZ8asFYvVWfczI3-8b-264">
+          <mxGeometry x="294" y="43" width="81" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-268" value="综合总结" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="PHrZ8asFYvVWfczI3-8b-264">
+          <mxGeometry x="425" y="43" width="80" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-269" value="调度本质安全的研究范围明确" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="PHrZ8asFYvVWfczI3-8b-264">
+          <mxGeometry x="555" y="43" width="224" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-270" value="理论框架选择" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="PHrZ8asFYvVWfczI3-8b-264">
+          <mxGeometry x="829" y="43" width="113" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-271" value="文献规章制度和实践经验综合研究" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="PHrZ8asFYvVWfczI3-8b-264">
+          <mxGeometry x="992" y="43" width="256" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-272" value="调度本质安全的内涵分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="PHrZ8asFYvVWfczI3-8b-264">
+          <mxGeometry x="1298" y="43" width="193" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-273" value="调度系统分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="PHrZ8asFYvVWfczI3-8b-264">
+          <mxGeometry x="1541" y="43" width="113" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-274" value="调度本质安全的特征深入理解" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="PHrZ8asFYvVWfczI3-8b-264">
+          <mxGeometry x="1704" y="43" width="225" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-275" value="调度指挥安全目标界定和分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="PHrZ8asFYvVWfczI3-8b-264">
+          <mxGeometry x="1979" y="43" width="225" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-276" value="调度本质安全的目标体系和层次明确" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="PHrZ8asFYvVWfczI3-8b-264">
+          <mxGeometry x="2254" y="43" width="272" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-277" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="PHrZ8asFYvVWfczI3-8b-264" source="PHrZ8asFYvVWfczI3-8b-266" target="PHrZ8asFYvVWfczI3-8b-265">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-278" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="PHrZ8asFYvVWfczI3-8b-264" source="PHrZ8asFYvVWfczI3-8b-265" target="PHrZ8asFYvVWfczI3-8b-267">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-279" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="PHrZ8asFYvVWfczI3-8b-264" source="PHrZ8asFYvVWfczI3-8b-267" target="PHrZ8asFYvVWfczI3-8b-268">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-280" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="PHrZ8asFYvVWfczI3-8b-264" source="PHrZ8asFYvVWfczI3-8b-268" target="PHrZ8asFYvVWfczI3-8b-269">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-281" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="PHrZ8asFYvVWfczI3-8b-264" source="PHrZ8asFYvVWfczI3-8b-269" target="PHrZ8asFYvVWfczI3-8b-270">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-282" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="PHrZ8asFYvVWfczI3-8b-264" source="PHrZ8asFYvVWfczI3-8b-270" target="PHrZ8asFYvVWfczI3-8b-271">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-283" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="PHrZ8asFYvVWfczI3-8b-264" source="PHrZ8asFYvVWfczI3-8b-271" target="PHrZ8asFYvVWfczI3-8b-272">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-284" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="PHrZ8asFYvVWfczI3-8b-264" source="PHrZ8asFYvVWfczI3-8b-272" target="PHrZ8asFYvVWfczI3-8b-273">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-285" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="PHrZ8asFYvVWfczI3-8b-264" source="PHrZ8asFYvVWfczI3-8b-273" target="PHrZ8asFYvVWfczI3-8b-274">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-286" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="PHrZ8asFYvVWfczI3-8b-264" source="PHrZ8asFYvVWfczI3-8b-274" target="PHrZ8asFYvVWfczI3-8b-275">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-287" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="PHrZ8asFYvVWfczI3-8b-264" source="PHrZ8asFYvVWfczI3-8b-275" target="PHrZ8asFYvVWfczI3-8b-276">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-288" value="实证研究法" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="3793" y="2602" width="958" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-289" value="数据采集" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="PHrZ8asFYvVWfczI3-8b-288">
+          <mxGeometry x="163" y="43" width="81" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-290" value="实地考察" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="PHrZ8asFYvVWfczI3-8b-288">
+          <mxGeometry x="33" y="43" width="80" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-291" value="问卷调查" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="PHrZ8asFYvVWfczI3-8b-288">
+          <mxGeometry x="294" y="43" width="80" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-292" value="数据分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="PHrZ8asFYvVWfczI3-8b-288">
+          <mxGeometry x="424" y="43" width="81" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-293" value="安全关键环节梳理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="PHrZ8asFYvVWfczI3-8b-288">
+          <mxGeometry x="555" y="43" width="144" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-294" value="关键环节安全关键点分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="PHrZ8asFYvVWfczI3-8b-288">
+          <mxGeometry x="749" y="43" width="192" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-295" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="PHrZ8asFYvVWfczI3-8b-288" source="PHrZ8asFYvVWfczI3-8b-290" target="PHrZ8asFYvVWfczI3-8b-289">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-296" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="PHrZ8asFYvVWfczI3-8b-288" source="PHrZ8asFYvVWfczI3-8b-289" target="PHrZ8asFYvVWfczI3-8b-291">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-297" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="PHrZ8asFYvVWfczI3-8b-288" source="PHrZ8asFYvVWfczI3-8b-291" target="PHrZ8asFYvVWfczI3-8b-292">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-298" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="PHrZ8asFYvVWfczI3-8b-288" source="PHrZ8asFYvVWfczI3-8b-292" target="PHrZ8asFYvVWfczI3-8b-293">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-299" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="PHrZ8asFYvVWfczI3-8b-288" source="PHrZ8asFYvVWfczI3-8b-293" target="PHrZ8asFYvVWfczI3-8b-294">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-300" value="调查对比法" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="4801" y="2560" width="841" height="188" as="geometry" />
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-301" value="对比分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="PHrZ8asFYvVWfczI3-8b-300">
+          <mxGeometry x="164" y="85" width="81" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-302" value="现场调查" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="PHrZ8asFYvVWfczI3-8b-300">
+          <mxGeometry x="33" y="85" width="81" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-303" value="调度指挥安全治理体系现状调研" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="PHrZ8asFYvVWfczI3-8b-300">
+          <mxGeometry x="375" y="43" width="240" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-304" value="国内外调度安全指挥体系历史发展及研究现状对比分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="PHrZ8asFYvVWfczI3-8b-300">
+          <mxGeometry x="295" y="127" width="400" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-305" value="问题发现" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="PHrZ8asFYvVWfczI3-8b-300">
+          <mxGeometry x="745" y="43" width="79" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-306" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="PHrZ8asFYvVWfczI3-8b-300" source="PHrZ8asFYvVWfczI3-8b-302" target="PHrZ8asFYvVWfczI3-8b-301">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-307" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.8273074661963551;exitY=0;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="PHrZ8asFYvVWfczI3-8b-300" source="PHrZ8asFYvVWfczI3-8b-301" target="PHrZ8asFYvVWfczI3-8b-303">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="270" y="60" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-308" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.8273074661963551;exitY=1;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="PHrZ8asFYvVWfczI3-8b-300" source="PHrZ8asFYvVWfczI3-8b-301" target="PHrZ8asFYvVWfczI3-8b-304">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="270" y="144" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-309" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="PHrZ8asFYvVWfczI3-8b-300" source="PHrZ8asFYvVWfczI3-8b-303" target="PHrZ8asFYvVWfczI3-8b-305">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-310" value="理论分析法" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="840" y="3181" width="342" height="1033" as="geometry" />
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-311" value="内涵分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="961" y="3290" width="80" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-312" value="理论构建" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="923" y="3206" width="81" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-313" value="特征分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="961" y="3374" width="81" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-314" value="综合总结" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="971" y="3483" width="80" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-315" value="调度本质安全的研究范围明确" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="899" y="3567" width="224" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-316" value="理论框架选择" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="955" y="3651" width="113" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-317" value="文献规章制度和实践经验综合研究" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="883" y="3735" width="256" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-318" value="调度本质安全的内涵分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="915" y="3819" width="193" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-319" value="调度系统分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="955" y="3903" width="113" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-320" value="调度本质安全的特征深入理解" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="899" y="3987" width="225" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-321" value="调度指挥安全目标界定和分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="899" y="4071" width="225" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-322" value="调度本质安全的目标体系和层次明确" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="875" y="4155" width="272" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-323" value="实证研究法" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="1626" y="2770" width="325" height="554" as="geometry" />
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-324" value="数据采集" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1689" y="2879" width="81" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-325" value="实地考察" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1689" y="2795" width="80" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-326" value="问卷调查" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1727" y="2963" width="80" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-327" value="数据分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1726" y="3097" width="81" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-328" value="安全关键环节梳理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1748" y="3181" width="144" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-329" value="关键环节安全关键点分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1724" y="3265" width="192" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-330" value="调查对比法" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="846" y="2770" width="760" height="361" as="geometry" />
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-331" value="对比分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1146" y="2904" width="81" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-332" value="现场调查" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1156" y="2795" width="81" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-333" value="调度指挥安全治理体系现状调研" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="881" y="2988" width="240" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-334" value="国内外调度安全指挥体系历史发展及研究现状对比分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1171" y="2988" width="400" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-335" value="问题发现" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1037" y="3072" width="79" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-336" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.44385655496766624;exitY=1;entryX=0.49382716049382713;entryY=0;rounded=0;" edge="1" parent="1" source="PHrZ8asFYvVWfczI3-8b-332" target="PHrZ8asFYvVWfczI3-8b-331">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1186" y="2854" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-337" value="" style="curved=1;startArrow=none;endArrow=block;exitX=-0.006172839506172839;exitY=0.7704292527821943;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="PHrZ8asFYvVWfczI3-8b-331" target="PHrZ8asFYvVWfczI3-8b-333">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1001" y="2963" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-338" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.9938271604938271;exitY=0.7704292527821943;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="PHrZ8asFYvVWfczI3-8b-331" target="PHrZ8asFYvVWfczI3-8b-334">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1371" y="2963" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-339" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.6273313492063491;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="PHrZ8asFYvVWfczI3-8b-333" target="PHrZ8asFYvVWfczI3-8b-335">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1077" y="3047" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-340" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.503125;exitY=1;entryX=0.49691358024691357;entryY=0;rounded=0;" edge="1" parent="1" source="PHrZ8asFYvVWfczI3-8b-325" target="PHrZ8asFYvVWfczI3-8b-324">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-341" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.6843033509700178;exitY=1;entryX=0.496875;entryY=0;rounded=0;" edge="1" parent="1" source="PHrZ8asFYvVWfczI3-8b-324" target="PHrZ8asFYvVWfczI3-8b-326">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1767" y="2938" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-342" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.496875;exitY=1;entryX=0.5030864197530864;entryY=0;rounded=0;" edge="1" parent="1" source="PHrZ8asFYvVWfczI3-8b-326" target="PHrZ8asFYvVWfczI3-8b-327">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-343" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.7704291593180485;exitY=1;entryX=0.5017361111111112;entryY=0;rounded=0;" edge="1" parent="1" source="PHrZ8asFYvVWfczI3-8b-327" target="PHrZ8asFYvVWfczI3-8b-328">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1820" y="3156" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-344" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5017361111111112;exitY=1;entryX=0.5013020833333334;entryY=0;rounded=0;" edge="1" parent="1" source="PHrZ8asFYvVWfczI3-8b-328" target="PHrZ8asFYvVWfczI3-8b-329">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-345" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.49691358024691357;exitY=1;entryX=0.3090029761904763;entryY=0;rounded=0;" edge="1" parent="1" source="PHrZ8asFYvVWfczI3-8b-312" target="PHrZ8asFYvVWfczI3-8b-311">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="963" y="3265" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-346" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.49382716049382713;entryY=0;rounded=0;" edge="1" parent="1" source="PHrZ8asFYvVWfczI3-8b-311" target="PHrZ8asFYvVWfczI3-8b-313">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-347" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.49382716049382713;exitY=1;entryX=0.44940476190476203;entryY=0;rounded=0;" edge="1" parent="1" source="PHrZ8asFYvVWfczI3-8b-313" target="PHrZ8asFYvVWfczI3-8b-314">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1001" y="3458" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-348" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="PHrZ8asFYvVWfczI3-8b-314" target="PHrZ8asFYvVWfczI3-8b-315">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-349" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.49557522123893805;entryY=0;rounded=0;" edge="1" parent="1" source="PHrZ8asFYvVWfczI3-8b-315" target="PHrZ8asFYvVWfczI3-8b-316">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-350" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.49557522123893805;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="PHrZ8asFYvVWfczI3-8b-316" target="PHrZ8asFYvVWfczI3-8b-317">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-351" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.49740932642487046;entryY=0;rounded=0;" edge="1" parent="1" source="PHrZ8asFYvVWfczI3-8b-317" target="PHrZ8asFYvVWfczI3-8b-318">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-352" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.49740932642487046;exitY=1;entryX=0.49557522123893805;entryY=0;rounded=0;" edge="1" parent="1" source="PHrZ8asFYvVWfczI3-8b-318" target="PHrZ8asFYvVWfczI3-8b-319">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-353" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.49557522123893805;exitY=1;entryX=0.49777777777777776;entryY=0;rounded=0;" edge="1" parent="1" source="PHrZ8asFYvVWfczI3-8b-319" target="PHrZ8asFYvVWfczI3-8b-320">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-354" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.49777777777777776;exitY=1;entryX=0.49777777777777776;entryY=0;rounded=0;" edge="1" parent="1" source="PHrZ8asFYvVWfczI3-8b-320" target="PHrZ8asFYvVWfczI3-8b-321">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-355" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.49777777777777776;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="PHrZ8asFYvVWfczI3-8b-321" target="PHrZ8asFYvVWfczI3-8b-322">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-356" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.9938271604938271;exitY=0.6710407239819005;entryX=0.003125;entryY=0.294759025105369;rounded=0;" edge="1" parent="1" source="PHrZ8asFYvVWfczI3-8b-332" target="PHrZ8asFYvVWfczI3-8b-325">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1489" y="2854" />
+              <mxPoint x="1489" y="2879" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-357" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.43633432539682543;exitY=1;entryX=0.49691358024691357;entryY=0;rounded=0;" edge="1" parent="1" source="PHrZ8asFYvVWfczI3-8b-333" target="PHrZ8asFYvVWfczI3-8b-312">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="963" y="3047" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-358" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.8819940476190474;entryY=0;rounded=0;" edge="1" parent="1" source="PHrZ8asFYvVWfczI3-8b-335" target="PHrZ8asFYvVWfczI3-8b-311">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1077" y="3265" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-359" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.21957671957672018;exitY=1;entryX=0.9969135802469136;entryY=0.42958562735438977;rounded=0;" edge="1" parent="1" source="PHrZ8asFYvVWfczI3-8b-324" target="PHrZ8asFYvVWfczI3-8b-312">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1674" y="3047" />
+              <mxPoint x="1674" y="3181" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-360" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.22574955908289301;exitY=1;entryX=0.9938271604938271;entryY=0.4295608422883407;rounded=0;" edge="1" parent="1" source="PHrZ8asFYvVWfczI3-8b-327" target="PHrZ8asFYvVWfczI3-8b-313">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1711" y="3265" />
+              <mxPoint x="1711" y="3349" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-361" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5013020833333334;exitY=1;entryX=0.8819940476190474;entryY=0;rounded=0;" edge="1" parent="1" source="PHrZ8asFYvVWfczI3-8b-329" target="PHrZ8asFYvVWfczI3-8b-314">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1820" y="3433" />
+              <mxPoint x="1087" y="3458" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-364" value="系统分析法" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="710" y="4517" width="515" height="529" as="geometry" />
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-365" value="文献研究" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="855" y="4626" width="80" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-366" value="比较分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="855" y="4542" width="80" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-367" value="案例分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="745" y="4710" width="81" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-368" value="缺陷总结" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="746" y="4819" width="80" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-369" value="安全管控体系构建流程及结构总结" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="876" y="4710" width="255" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-370" value="多学科研究理论结合" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="934" y="4819" width="160" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-371" value="实践相结合" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="965" y="4903" width="97" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-372" value="基于本质安全的调度指挥安全管控体系构建支撑" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="838" y="4987" width="352" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-373" value="综合评价法" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="2049" y="4517" width="509" height="638" as="geometry" />
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-374" value="案例统计与分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2209" y="4626" width="129" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-375" value="数据分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2233" y="4542" width="81" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-376" value="综合评价" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2120" y="4710" width="81" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-377" value="关键因素和影响管控效果的变量探索" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2251" y="4710" width="272" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-378" value="评价指标和方法结合" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2193" y="4819" width="161" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-379" value="管控优化方案制定" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2201" y="4903" width="145" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-380" value="已有成功案例分析与经验总结" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2162" y="4987" width="223" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-381" value="科学依据和指导提供" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2193" y="5096" width="161" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-382" value="归纳总结法" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="1245" y="4240" width="785" height="529" as="geometry" />
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-383" value="案例分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1558" y="4349" width="81" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-384" value="实地观察" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1596" y="4265" width="80" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-385" value="文献研究" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1407" y="4433" width="80" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-386" value="分析统计" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1794" y="4433" width="81" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-387" value="人防物防技防措施原理与理论支撑了解" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1313" y="4626" width="289" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-388" value="理论分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1332" y="4710" width="81" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-389" value="关键因素与机理探究" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1463" y="4710" width="159" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-390" value="统计方法探索管控措施与安全效果关联关系" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1674" y="4542" width="320" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-391" value="数据分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1794" y="4626" width="81" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-392" value="影响安全管控效果的关键因素和机理寻找" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1672" y="4710" width="305" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-393" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.3058779761904759;exitY=1;entryX=0.49382716049382713;entryY=0;rounded=0;" edge="1" parent="1" source="PHrZ8asFYvVWfczI3-8b-384" target="PHrZ8asFYvVWfczI3-8b-383">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1598" y="4324" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-394" value="" style="curved=1;startArrow=none;endArrow=block;exitX=-0.006172839506172839;exitY=0.8313206077132838;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="PHrZ8asFYvVWfczI3-8b-383" target="PHrZ8asFYvVWfczI3-8b-385">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1447" y="4408" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-395" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.9938271604938271;exitY=0.7119890329012961;entryX=0.49382716049382713;entryY=0;rounded=0;" edge="1" parent="1" source="PHrZ8asFYvVWfczI3-8b-383" target="PHrZ8asFYvVWfczI3-8b-386">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1834" y="4408" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-396" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5505952380952379;exitY=1;entryX=0.4982698961937716;entryY=0;rounded=0;" edge="1" parent="1" source="PHrZ8asFYvVWfczI3-8b-385" target="PHrZ8asFYvVWfczI3-8b-387">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1457" y="4492" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-397" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.37922227714615253;exitY=1;entryX=0.49382716049382713;entryY=0;rounded=0;" edge="1" parent="1" source="PHrZ8asFYvVWfczI3-8b-387" target="PHrZ8asFYvVWfczI3-8b-388">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1372" y="4685" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-398" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.6173175152413908;exitY=1;entryX=0.4968553459119497;entryY=0;rounded=0;" edge="1" parent="1" source="PHrZ8asFYvVWfczI3-8b-387" target="PHrZ8asFYvVWfczI3-8b-389">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1542" y="4685" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-399" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.49382716049382713;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="PHrZ8asFYvVWfczI3-8b-386" target="PHrZ8asFYvVWfczI3-8b-390">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-400" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.49382716049382713;entryY=0;rounded=0;" edge="1" parent="1" source="PHrZ8asFYvVWfczI3-8b-390" target="PHrZ8asFYvVWfczI3-8b-391">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-401" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.44385655496766624;exitY=1;entryX=0.49836065573770494;entryY=0;rounded=0;" edge="1" parent="1" source="PHrZ8asFYvVWfczI3-8b-391" target="PHrZ8asFYvVWfczI3-8b-392">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1824" y="4685" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-402" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.49691358024691357;exitY=1;entryX=0.49806201550387597;entryY=0;rounded=0;" edge="1" parent="1" source="PHrZ8asFYvVWfczI3-8b-375" target="PHrZ8asFYvVWfczI3-8b-374">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-403" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.1427187153931335;exitY=1;entryX=0.49382716049382713;entryY=0;rounded=0;" edge="1" parent="1" source="PHrZ8asFYvVWfczI3-8b-374" target="PHrZ8asFYvVWfczI3-8b-376">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2160" y="4685" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-404" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.8534053156146184;exitY=1;entryX=0.49816176470588236;entryY=0;rounded=0;" edge="1" parent="1" source="PHrZ8asFYvVWfczI3-8b-374" target="PHrZ8asFYvVWfczI3-8b-377">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2387" y="4685" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-405" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.49382716049382713;exitY=1;entryX=0.21373114463176535;entryY=0;rounded=0;" edge="1" parent="1" source="PHrZ8asFYvVWfczI3-8b-376" target="PHrZ8asFYvVWfczI3-8b-378">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2160" y="4794" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-406" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.4984472049689441;exitY=1;entryX=0.4982758620689655;entryY=0;rounded=0;" edge="1" parent="1" source="PHrZ8asFYvVWfczI3-8b-378" target="PHrZ8asFYvVWfczI3-8b-379">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-407" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.4982758620689655;exitY=1;entryX=0.49887892376681614;entryY=0;rounded=0;" edge="1" parent="1" source="PHrZ8asFYvVWfczI3-8b-379" target="PHrZ8asFYvVWfczI3-8b-380">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-408" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.49887892376681614;exitY=1;entryX=0.4984472049689441;entryY=0;rounded=0;" edge="1" parent="1" source="PHrZ8asFYvVWfczI3-8b-380" target="PHrZ8asFYvVWfczI3-8b-381">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-409" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.49375;exitY=1;entryX=0.49375;entryY=0;rounded=0;" edge="1" parent="1" source="PHrZ8asFYvVWfczI3-8b-366" target="PHrZ8asFYvVWfczI3-8b-365">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-410" value="" style="curved=1;startArrow=none;endArrow=block;exitX=-0.00625;exitY=0.9533189422558019;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="PHrZ8asFYvVWfczI3-8b-365" target="PHrZ8asFYvVWfczI3-8b-367">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="786" y="4685" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-411" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.49375;entryY=0;rounded=0;" edge="1" parent="1" source="PHrZ8asFYvVWfczI3-8b-367" target="PHrZ8asFYvVWfczI3-8b-368">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-412" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.99375;exitY=0.9533189422558019;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="PHrZ8asFYvVWfczI3-8b-365" target="PHrZ8asFYvVWfczI3-8b-369">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1004" y="4685" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-413" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.471577380952381;entryY=0;rounded=0;" edge="1" parent="1" source="PHrZ8asFYvVWfczI3-8b-369" target="PHrZ8asFYvVWfczI3-8b-370">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1004" y="4794" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-414" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.496875;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="PHrZ8asFYvVWfczI3-8b-370" target="PHrZ8asFYvVWfczI3-8b-371">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-415" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.49857954545454547;entryY=0;rounded=0;" edge="1" parent="1" source="PHrZ8asFYvVWfczI3-8b-371" target="PHrZ8asFYvVWfczI3-8b-372">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-416" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.996875;exitY=0.652741158287117;entryX=-0.0030864197530864196;entryY=0.34067066316972683;rounded=0;" edge="1" parent="1" source="PHrZ8asFYvVWfczI3-8b-384" target="PHrZ8asFYvVWfczI3-8b-375">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1959" y="4324" />
+              <mxPoint x="1959" y="4517" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-417" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.9382418155732362;entryX=0.99375;entryY=0.3876366919707048;rounded=0;" edge="1" parent="1" source="PHrZ8asFYvVWfczI3-8b-385" target="PHrZ8asFYvVWfczI3-8b-366">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1334" y="4492" />
+              <mxPoint x="1334" y="4517" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-418" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.9310699588477376;exitY=1;entryX=-0.006172839506172839;entryY=0.29023307436182055;rounded=0;" edge="1" parent="1" source="PHrZ8asFYvVWfczI3-8b-391" target="PHrZ8asFYvVWfczI3-8b-376">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1922" y="4685" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-419" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.4968553459119497;exitY=1;entryX=0.7384672619047621;entryY=0;rounded=0;" edge="1" parent="1" source="PHrZ8asFYvVWfczI3-8b-389" target="PHrZ8asFYvVWfczI3-8b-370">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1542" y="4769" />
+              <mxPoint x="1109" y="4794" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PHrZ8asFYvVWfczI3-8b-420" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.49816176470588236;exitY=1;entryX=0.7831632653061229;entryY=0;rounded=0;" edge="1" parent="1" source="PHrZ8asFYvVWfczI3-8b-377" target="PHrZ8asFYvVWfczI3-8b-378">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2387" y="4794" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
